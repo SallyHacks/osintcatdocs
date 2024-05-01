@@ -1,4 +1,5 @@
-<img src="https://github.com/SallyHacks/osintcatdocs/raw/main/Capture.PNG" alt="hello!" width="400" style="max-width: 100%;text-align: center;display: flex;justify-content: center;align-items: center;margin-left: 200px;">
+<img src="https://github.com/SallyHacks/osintcatdocs/raw/main/Capture.PNG" alt="hello!" width="400" style="max-width: 100%; margin-left: 200px;">
+
 
 # OSINT CAT API v2
 
