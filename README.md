@@ -1,5 +1,6 @@
-<img alt="Capture.PNG" src="https://github.com/SallyHacks/osintcatdocs/blob/main/Capture.PNG?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
-
+<p align="center">
+  <img width="460" height="300" src="https://github.com/SallyHacks/osintcatdocs/blob/main/Capture.PNG">
+</p>
 
 # OSINT CAT API v2
 
