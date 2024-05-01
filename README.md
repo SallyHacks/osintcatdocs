@@ -2,7 +2,7 @@
   <img width="460" height="300" src="https://github.com/SallyHacks/osintcatdocs/blob/main/Capture.PNG">
 </p>
 
-# OSINT CAT API v2
+#
 
 Our Data Breach Search API provides a powerful interface for searching through various data breaches to find if certain details (email, username, password, IP address) have been compromised. It aggregates data from multiple sources, offering a comprehensive search capability. This document outlines how to interact with the API, including authentication, request formats, endpoints, and examples.
 
